@@ -1,0 +1,46 @@
+/* navigation clasees   */
+
+    .header-link {
+        text-decoration: none;
+        padding: 0 2rem 2rem 0;
+    }
+
+    .header-link:hover {
+        color: black;
+    }
+
+    .navigation {
+        padding: 2rem 0 0 7rem;
+        font-size: 2rem;
+    }
+
+
+/* section css to enhance look and feel of the page */
+
+    .section {
+        padding: 25rem 0 25rem;
+        text-align: center;
+    }
+
+    .section-upper{
+        padding: 1rem 0 4rem;
+        text-align: center;
+    }
+
+    .section-lower{
+        text-align: left;
+    }
+
+    .login {
+        padding: 25rem 0 25rem ;
+        text-align: center;
+    }
+
+    .u-pull-center {
+    }
+
+/* padding for button */
+
+    .addButton {
+        margin-top: 29px;
+    }

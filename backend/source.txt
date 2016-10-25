@@ -1,0 +1,4 @@
+public static void getTwo(int num1, int num2) {
+	int x = a*b;
+	return x+1;
+}
